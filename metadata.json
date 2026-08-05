@@ -1,0 +1,6 @@
+{
+  "name": "BloxFinder - Buscador de Jugadores de Roblox",
+  "description": "Herramienta para buscar datos de jugadores de Roblox, explorar avatares en 3D, inventario, trajes y juegos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
